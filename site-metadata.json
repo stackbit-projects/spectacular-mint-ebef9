@@ -39,7 +39,7 @@
     "title": "Stackbit Exto Theme",
     "header": {
         "title": "lorem-ipsum",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [],
         "type": "header"
     }
