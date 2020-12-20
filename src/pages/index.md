@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: I help brands connect with their audiences in a fun and creative way.
-    content: Need assistance on crafting brand messages and the communication methods?
+    content: Craft brand stories with precise strategic execution of design.
     actions:
       - label: Let's keep in touch!
         url: /contact
