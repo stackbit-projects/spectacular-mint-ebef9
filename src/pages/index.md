@@ -1,5 +1,5 @@
 ---
-title: Ho
+title: Home
 hide_title: true
 sections:
   - section_id: hero
