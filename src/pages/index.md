@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: >-
-      I consult brands and advertisers create meaningful and valuable contents
-      for target audiences.
+    title: I help brands connect with their audiences in a fun and creative way.
     content: Need assistance on crafting brand messages and the communication methods?
     actions:
       - label: Let's keep in touch!
