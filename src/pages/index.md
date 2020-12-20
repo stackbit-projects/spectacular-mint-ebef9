@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Let's Talk
         url: /contact
-        style: icon
+        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
