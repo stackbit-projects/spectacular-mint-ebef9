@@ -9,7 +9,7 @@ sections:
       for target audiences.
     content: Need assistance on crafting brand messages and the communication methods?
     actions:
-      - label: Let's connect!
+      - label: Let's keep in touch!
         url: /contact
         style: button
   - section_id: latest-projects
