@@ -4,7 +4,9 @@ hide_title: false
 sections:
   - section_id: hero
     type: section_hero
-    title: ''
+    title: >-
+      I consult brands and advertisers create meaningful and valuable contents
+      for target audiences.
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
