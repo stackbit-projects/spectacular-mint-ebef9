@@ -7,7 +7,7 @@ sections:
     title: I help brands connect with their audiences in a fun and creative way.
     content: Craft brand stories with precise strategic execution of design.
     actions:
-      - label: 'Let''s '
+      - label: Let's Connect
         url: /contact
         style: button
   - section_id: latest-projects
